@@ -64,34 +64,3 @@ Accuracy: 66%
 Loss: Optimized with categorical cross-entropy
 
 Evaluation Metrics: Precision, Recall, and F1-score for 7 emotion classes
-
-📦 Installation & Usage
-
-🔹 Clone the Repository
-
-git clone https://github.com/your-username/emotion-detection.git
-cd emotion-detection
-
-🔹 Install Dependencies
-
-pip install -r requirements.txt
-
-🔹 Train the Model
-
-python src/train.py
-
-🔹 Run Real-Time Emotion Detection
-
-python src/realtime.py
-
-🔹 Launch Web App
-
-python src/app.py
-
-📜 License
-
-This project is licensed under the MIT License.
-
-✉️ Contact
-
-For any queries, reach out via LinkedIn or email your.email@example.com.
